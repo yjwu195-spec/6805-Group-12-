@@ -23,15 +23,15 @@
     },
     {
       "path": "README.md",
-      "bytes": 11720,
+      "bytes": 11994,
       "hash_encoding": "LF-normalized text",
-      "sha256": "31bb5907abe8f84db3d3cb78fec870caa091f5d3e4a0de3fb2a73812e85cc3dd"
+      "sha256": "56a2a969efa45425874f014b634cdb209a8f138ae49a2b41e4da5ce967ed3849"
     },
     {
       "path": "README.zh-CN.md",
-      "bytes": 12434,
+      "bytes": 12757,
       "hash_encoding": "LF-normalized text",
-      "sha256": "41d54c5b98aa84433fece36a098291b6ba8e730e3bf6c10e77abe7e8a34b1248"
+      "sha256": "f7a3115f2928315abd8c6c94d27007484e3609ff7e9beb1173834da07e7254f4"
     },
     {
       "path": "requirements-lock.txt",
@@ -100,10 +100,16 @@
       "sha256": "b1f43d41c4559b4832d9b7e7c09cc863c552ecdf773b0ce61220fc19f7782bb5"
     },
     {
-      "path": "docs/CLASSMATE_GUIDE.md",
-      "bytes": 6200,
+      "path": "docs/BILINGUAL_GLOSSARY.md",
+      "bytes": 8323,
       "hash_encoding": "LF-normalized text",
-      "sha256": "12692e4b85d240dda892c1e00b0809c02ce8011ee7d43d2af41f65eaa59b0a95"
+      "sha256": "e6d3d89c69e4a5b0f93eee8a6164faac80c7f6c9baa60fd28c4b92a767eccc65"
+    },
+    {
+      "path": "docs/CLASSMATE_GUIDE.md",
+      "bytes": 6194,
+      "hash_encoding": "LF-normalized text",
+      "sha256": "9dc44e003ff6dd2d2666113354a3fcce63c2e1c17d53d443640e99fe8a724509"
     },
     {
       "path": "docs/DATA_ACCESS.md",
@@ -124,10 +130,34 @@
       "sha256": "8e51123fa8ae1359e4385329d9fefc366e660ee2a92ed0794638b7c4a2e40279"
     },
     {
+      "path": "docs/LEARNING_HUB.md",
+      "bytes": 6020,
+      "hash_encoding": "LF-normalized text",
+      "sha256": "0650e496bf64618bff3d51548994695cd0394091825e48f02b41fb86f60ea240"
+    },
+    {
       "path": "docs/METHODOLOGY.md",
       "bytes": 7416,
       "hash_encoding": "LF-normalized text",
       "sha256": "316b2948c78ce0f7c3fb43a908a350807d7ff605e8798274ca09c06d918d6362"
+    },
+    {
+      "path": "docs/ML_CORE_CONCEPTS.md",
+      "bytes": 18500,
+      "hash_encoding": "LF-normalized text",
+      "sha256": "fba39895bfee398accf360fd1786f51f42e28cbe829d873ee845975398ff8062"
+    },
+    {
+      "path": "docs/PRESENTATION_QA.md",
+      "bytes": 15240,
+      "hash_encoding": "LF-normalized text",
+      "sha256": "1a8f64c244c7fd03e2522f4fafef65bb3eed04edc6ce558e4d9170074918464a"
+    },
+    {
+      "path": "docs/QUANT_FINANCE_FOUNDATIONS.md",
+      "bytes": 9910,
+      "hash_encoding": "LF-normalized text",
+      "sha256": "cc358aa34ad30e92e369720ccaadfa02d68bb9d4ca286051c6578e1f1a1764b6"
     },
     {
       "path": "docs/RESULTS_EXPLAINED.md",

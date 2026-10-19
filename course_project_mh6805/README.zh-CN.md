@@ -1,5 +1,7 @@
 # MH6805 第12组机器学习多因子选股课程项目
 
+**课程名称：Machine Learning in Finance。** 展示准备新增[双语学习总入口](docs/LEARNING_HUB.md)、[机器学习核心知识](docs/ML_CORE_CONCEPTS.md)、[量化金融基础](docs/QUANT_FINANCE_FOUNDATIONS.md)、[23组双语答辩](docs/PRESENTATION_QA.md)和[术语速查](docs/BILINGUAL_GLOSSARY.md)。
+
 [English README](README.md) | [同学阅读指南](docs/CLASSMATE_GUIDE.md) | [数据获取与字段](docs/DATA_ACCESS.md) | [结果解读](docs/RESULTS_EXPLAINED.md) | [详细方法](docs/METHODOLOGY.md)
 
 **这是经过重新实现和实际运行的课程版本，与另一个仓库中的早期实习研究版本不同。请勿混用两个版本的代码、配置或收益结果。**

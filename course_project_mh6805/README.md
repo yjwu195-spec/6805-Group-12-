@@ -1,5 +1,7 @@
 # MH6805 Group 12 Machine Learning Stock Selection
 
+**Course: Machine Learning in Finance.** Prepare for presentation with the [bilingual learning hub](docs/LEARNING_HUB.md), [ML core concepts](docs/ML_CORE_CONCEPTS.md), [finance foundations](docs/QUANT_FINANCE_FOUNDATIONS.md) and [23 Q&A answers](docs/PRESENTATION_QA.md).
+
 [中文详细说明](README.zh-CN.md) | [Classmate guide 中文 English](docs/CLASSMATE_GUIDE.md) | [Data access and schema](docs/DATA_ACCESS.md) | [Methods](docs/METHODOLOGY.md) | [Results explained](docs/RESULTS_EXPLAINED.md)
 
 **Dedicated course version, separate from the legacy internship repository.** This directory contains a separately implemented and executed course experiment comparing Logistic Regression, Random Forest, XGBoost and LightGBM on historical CSI 500 stocks. The older research remains in its original repository; its figures must not be mixed with these results.
