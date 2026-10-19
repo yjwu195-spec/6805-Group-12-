@@ -1,4 +1,4 @@
-# 同学阅读指南 Classmate Guide
+# 阅读指南 Classmate Guide
 
 ## 中文
 
